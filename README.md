@@ -1,2 +1,2 @@
-arrivied
+Arrived
 ========
